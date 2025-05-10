@@ -2,9 +2,8 @@
 
 **✨ [项目名称]**  
 
-*—— Telegram一键智能水群(deepseek版)*
-
-封面横幅（可选但推荐）  
+*Telegram一键智能水群(deepseek版)*
+ 
 ![电报智能水群助手](https://ossimg.yzitc.com/2022/03/15/3476068d80f53.png)
 
 ---
