@@ -1,7 +1,7 @@
 ---
 
 **✨ [项目名称]**  
-![GitHub stars](https://img.shields.io/github/stars/LovebuildJ/tg-auto-ai-sender?style=social) ![License](https://img.shields.io/badge/license-MIT-blue) ![Version](https://img.shields.io/badge/version-1.0.0-green)  
+
 *—— Telegram一键智能水群(deepseek版)*
 
 封面横幅（可选但推荐）  
