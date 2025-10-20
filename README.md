@@ -1,6 +1,8 @@
 **✨项目名称 **  
 
-*Telegram一键智能水群(deepseek版)* 
+*Telegram一键智能水群(deepseek版)*
+** 官方网址 **
+https://aitelegram.xyz
 
 **🌟 功能亮点**  
 ✔️ 功能1 - 安装即用，无需懂任何技术
